@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## BICCN Controlled Vocabularies for Data Submission
 
-You can use the [editor on GitHub](https://github.com/patrick-lloyd-ray/controlled-vocabularies.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the page for viewing acceptable terms (comprising a controlled vocabulary) for BICCN data submitters.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use the following links to navigate to tables containing terms, synonyms, and definitions that are acceptable for submitting BICCN data.
 
-### Markdown
+### Categories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Techniques (methods, protocols, ways of conducting experiments)
 
-```markdown
-Syntax highlighted code block
+#### Specimens (certain targets of experimental methods)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrick-lloyd-ray/controlled-vocabularies.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you need any assistance or have any questions, feel free to email the [data curation team](data.curation@alleninstitute.org) and we will respond in a timely manner.
