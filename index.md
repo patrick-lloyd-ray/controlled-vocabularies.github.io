@@ -6,9 +6,9 @@ Use the following links to navigate to tables containing terms, synonyms, and de
 
 ### Categories
 
-#### [Techniques](/techniques_table.csv) (methods, protocols, ways of conducting experiments)
+#### [Techniques](/techniques_table.csv) (methods, protocols, ways of conducting experiments) [Google Sheet Format](https://docs.google.com/spreadsheets/d/1C5Ok_5GOROCVHESazgqRYi72QMqaJFvc1nuUGnCqGro/edit?usp=sharing)
 
-#### [Specimens](/specimens_table.csv) (certain targets of experimental methods).
+#### [Specimens](/specimens_table.csv) (certain targets of experimental methods). [Google Sheet Format](https://docs.google.com/spreadsheets/d/1pB0upuCYl2JFvNYHIuo7qSsZtKqMByd8LoskFmFPV6I/edit?usp=sharing)
 
 Specimens are roles that material entities may have. To say that something is a specimen is simply to say that it bears the specimen role. The role of specimen for a material entity is gained via a process (a specimen collection process). Typical examples of specimens are blood taken from an animal, where the blood has the specimen role (blood specimen) and the animal does not bear that role (i.e., the animal is not a specimen). However, the specimen role can also be borne by whole organisms. 
 
