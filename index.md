@@ -8,7 +8,7 @@ Use the following links to navigate to tables containing terms, synonyms, and de
 
 #### [Techniques](/techniques_table.csv) (methods, protocols, ways of conducting experiments)
 
-#### [Specimens](/specimens_table.csv) (certain targets of experimental methods)
+#### [Specimens](/specimens_table.csv) (certain targets of experimental methods) and [helpful relations relevant to specimens](/specimens_relations_table.csv).
 
 ### Contact
 
