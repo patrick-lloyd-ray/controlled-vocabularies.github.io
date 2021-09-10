@@ -1,0 +1,8 @@
+﻿material entity,An independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time.
+has role,"A relation between an independent continuant (the bearer) and a role, in which the role specifically depends on the bearer for its existence."
+specimen role,A role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation.
+material sample role,A specimen role borne by a material entity that is the output of a material sampling process.
+derives from,"A relation between two distinct material entities, the new entity and the old entity, in which the new entity begins to exist when the old entity ceases to exist, and the new entity inherits the significant portion of the matter of the old entity."
+is specified output of ,A relation between a material entity and a process where the material entity arises as a result of participating in a process.
+collecting specimen from organism,A process with the objective to obtain a material entity that was part of an organism for potential future use in an investigation.
+specimen collecting process,A planned process with the objective of collecting a specimen.
