@@ -18,6 +18,8 @@ Formally, asserting that some material entity is a specimen asserts the followin
   
 where the 'material entity' slot is occupied by the various specimen level entities (e.g., cell, organism, organ, tissue). 
 
+Specimens are modeled using the [OBI framework of specimen modeling](https://user-images.githubusercontent.com/67486986/132926068-ed64efe0-61f1-468a-a2ae-e0a9db499f23.png)
+
 Detailed descriptions of these relations (and other relations regarding specimens) can be found here: [helpful relations relevant to specimens](https://docs.google.com/spreadsheets/d/1pB0upuCYl2JFvNYHIuo7qSsZtKqMByd8LoskFmFPV6I/edit?usp=sharing).
 
 ### [File Types](https://docs.google.com/spreadsheets/d/1E8RYBaveFaTMgAv3j_Ut4mdLFnm5rmGLXCzDwpLvNk0/edit?usp=sharing)
