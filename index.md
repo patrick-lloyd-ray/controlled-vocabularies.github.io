@@ -20,6 +20,8 @@ where the 'material entity' slot is occupied by the various specimen level entit
 
 Detailed descriptions of these relations (and other relations regarding specimens) can be found here: [helpful relations relevant to specimens](https://docs.google.com/spreadsheets/d/1pB0upuCYl2JFvNYHIuo7qSsZtKqMByd8LoskFmFPV6I/edit?usp=sharing).
 
+### [File Types](https://docs.google.com/spreadsheets/d/1E8RYBaveFaTMgAv3j_Ut4mdLFnm5rmGLXCzDwpLvNk0/edit?usp=sharing)
+
 ### Contact
 
 If you need any assistance or have any questions, feel free to email the [data curation team](data.curation@alleninstitute.org) and we will respond in a timely manner.
