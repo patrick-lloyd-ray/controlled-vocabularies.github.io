@@ -6,7 +6,7 @@ Use the following links to navigate to tables containing terms, synonyms, and de
 
 ### Categories
 
-#### Techniques (methods, protocols, ways of conducting experiments)
+#### [Techniques](/specimens_table.csv) (methods, protocols, ways of conducting experiments)
 
 #### Specimens (certain targets of experimental methods)
 
