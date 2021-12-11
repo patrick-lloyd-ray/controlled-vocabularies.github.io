@@ -22,11 +22,11 @@ Specimens are modeled using the [OBI framework of specimen modeling](https://use
 
 Detailed descriptions of these relations (and other relations regarding specimens) can be found here: [helpful relations relevant to specimens](https://docs.google.com/spreadsheets/d/1pB0upuCYl2JFvNYHIuo7qSsZtKqMByd8LoskFmFPV6I/edit?usp=sharing).
 
-### [Modalities](/modality_table.csv)
+#### [Modalities](/modality_table.csv)
 
-### [Species](/species_table.csv)
+#### [Species](/species_table.csv)
 
-### [File Types](https://docs.google.com/spreadsheets/d/1E8RYBaveFaTMgAv3j_Ut4mdLFnm5rmGLXCzDwpLvNk0/edit?usp=sharing)
+#### [File Types](https://docs.google.com/spreadsheets/d/1E8RYBaveFaTMgAv3j_Ut4mdLFnm5rmGLXCzDwpLvNk0/edit?usp=sharing)
 
 ### Contact
 
