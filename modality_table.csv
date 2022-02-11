@@ -1,0 +1,9 @@
+ID,label,synonym,definition,references
+aio-dis#cell_morphology_study_design,cell morphology study design,cell morphology,A study design in which cellular structure properties are characterized,
+aio-dis#connectivity_study_design,connectivity study design,connectivity,A study design in which the connectivity between brain regions, cells, and cell types is characterized.,
+aio-dis#epigenomics_study_design,epigenomics study design,epigenomics,A study design in which epigenomic modifications (such as DNA methylation) and histone modifications are is detected.,
+aio-dis#multimodal_study_design,multimodal study design,multimodal,A study design in which multimodal biological features are characterized for the same cell specimen.,
+aio-dis#population_distribution_study_design,population distribution study design,population imaging,A study design in which the spatial distribution of specific cell populations is characterized.,
+OBI:0001411,cell type comparison design,cell type distribution,A study design that compares cells of different type, for example different cell lines.,
+aio-dis#spatial_transcriptomics_study_design,spatial transcriptomics study design,spatial transcriptomics,A study design in which the abundance of transcripts within their morphological context is characterized.,
+aio-dis#transcriptomics_study_design,transcriptomics study design,transcriptomics,A study design in which the abundance of transcripts is characterized.,

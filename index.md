@@ -6,9 +6,9 @@ Use the following links to navigate to tables containing terms, synonyms, and de
 
 ### Categories
 
-#### [Techniques](https://docs.google.com/spreadsheets/d/1C5Ok_5GOROCVHESazgqRYi72QMqaJFvc1nuUGnCqGro/edit?usp=sharing) (methods, protocols, ways of conducting experiments)
+#### [Techniques](/techniques_table.csv) (methods, protocols, ways of conducting experiments)
 
-#### [Specimens](https://docs.google.com/spreadsheets/d/1pB0upuCYl2JFvNYHIuo7qSsZtKqMByd8LoskFmFPV6I/edit?usp=sharing) (certain targets of experimental methods).
+#### [Specimens](/specimens_table.csv) (certain targets of experimental methods).
 
 Specimens are roles that material entities may have. To say that something is a specimen is simply to say that it bears the specimen role. The role of specimen for a material entity is gained via a process (a specimen collection process). Typical examples of specimens are blood taken from an animal, where the blood has the specimen role (blood specimen) and the animal does not bear that role (i.e., the animal is not a specimen). However, the specimen role can also be borne by whole organisms. 
 
@@ -22,7 +22,11 @@ Specimens are modeled using the [OBI framework of specimen modeling](https://use
 
 Detailed descriptions of these relations (and other relations regarding specimens) can be found here: [helpful relations relevant to specimens](https://docs.google.com/spreadsheets/d/1pB0upuCYl2JFvNYHIuo7qSsZtKqMByd8LoskFmFPV6I/edit?usp=sharing).
 
-### [File Types](https://docs.google.com/spreadsheets/d/1E8RYBaveFaTMgAv3j_Ut4mdLFnm5rmGLXCzDwpLvNk0/edit?usp=sharing)
+#### [Modalities](/modality_table.csv)
+
+#### [Species](/species_table.csv)
+
+#### [File Types](https://docs.google.com/spreadsheets/d/1E8RYBaveFaTMgAv3j_Ut4mdLFnm5rmGLXCzDwpLvNk0/edit?usp=sharing)
 
 ### Contact
 
