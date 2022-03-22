@@ -52,3 +52,6 @@ TMN:0000020,optical coherence tomography assay,OCT,"An imaging assay that has as
 ,SNARE-seq2 (ATAC-seq),,,
 ,SNARE-seq2 (RNA-seq),,,
 ,Split-seq,,,
+,PacBio long-read sequencing,,,
+,Oxford Nanopore long-read sequencing,,,
+,sci-Metv2,,,
