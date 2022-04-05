@@ -41,19 +41,21 @@ TMN:0000029,SHARE-seq assay,SHARE-seq|SHARE-sequencing,"A RNA-seq assay that use
 TMN:0000028,slide-seq assay,slide-seq|slide-sequencing assay,"A RNA-seq assay for transferring RNA from tissue sections onto a surface covered in DNA-barcoded beads with known positions, allowing the locations of the RNA to be inferred by sequencing.",
 OBI:0002985,magnetic resonance imaging assay,MRI,"An imaging assay in which nuclear magnetic resonance is used to produce information about the interior structure and composition of an input material entity.",
 TMN:0000020,optical coherence tomography assay,OCT,"An imaging assay that has as an output label-free, cross-sectional imaging of biological tissue microstructure using tissue backscattering properties.",
-,10x chromium 3' v2 sequencing assay,10x chromium 3' v2 sequencing,,
-,10x chormium 3' v3 sequencing assay, 10x chromium 3' v3 sequencing,,
-,DARTFISH,,,
-,DIVA-seq,,,
-,mC-seq2,,,
-,OLST,,,
-,osmFISH,,,
-,smFISH,,,
-,SNARE-seq2 (ATAC-seq),,,
-,SNARE-seq2 (RNA-seq),,,
-,Split-seq,,,
-,PacBio long-read sequencing,,,
-,Oxford Nanopore long-read sequencing,,,
-,sci-Metv2,,,
-,m3C-seq,,,
-,mC-seq3,,,
+EFO:0009899,10x chromium 3' v2 sequencing assay,10x chromium 3' v2 sequencing,10X 3' v2 is the second version of the 10x sequencing technology that sequences from the 3' end of nucleic acid molecules. In the 3' assay, the polyd(T) sequence is part of the gel bead oligo (which also contains the 10x Barcode, UMI, and partial Illumina Read 1 sequence), with the template switch oligo (TSO) supplied in the RT Primer.,
+EFO:0009922,10x chormium 3' v3 sequencing assay,10x chromium 3' v3 sequencing,10X 3' v3 is the third version of the 10x sequencing technology that sequences from the 3' end of nucleic acid molecules.,
+OBI:0003095,decoding amplified targeted transcripts with fluorescence in situ hybridization assay,DARTFISH,A fluorescence in-situ hybridization assay which involves multiplex in situ digital quantification of targeted RNA transcripts in fresh or frozen tissue providing an understanding of the spatial organization of different cell types.,
+OBI:0002985,magnetic resonance imaging assay,MRI,An imaging assay in which nuclear magnetic resonance is used to produce information about the interior structure and composition of an input material entity.,
+TMN:00000xx,double in vitro transcription with absoluted counts sequencing assay,DIVA-seq,A single-cell RNA sequencing assay wherein sparse fluorescently labeled single neurons are collected manually from freshly dissociated mouse brain tissue. Then, single-labeled neurons with high purity are integrated with an in vitro transcription-based amplification protocol that preserves endogenous transcript ratios. Subsequently, a double linear amplification method that uses unique molecule identifiers (UMIs) is used to generate individual mRNA counts. Two rounds of amplification follow.,http://doi.org/10.3791/58690
+TMN:00000xx,snm3C-seq,m3C-seq|single-nucleus methyl3C sequencing assay,,http://doi.org/10.1038/s41592-019-0547-z
+TMN:00000xx,snmC-seq2,single-nucleus methyl-C sequencing assay,,http://doi.org/10.1038/s41467-018-06355-2
+TMN:00000xx,mC-seq3,,A methyl-capture sequencing assay that is the third version of such techology. (more information coming),
+TMN:00000xx,OLST,oblique light-sheet tomography,A light sheet tomography assay wherein the sample is imaged from the top using oblique light sheet fluorescence microscopy illumination and detection strategy and the imaged top portion of the tissue is removed by vibratome sectioning.,http://doi.org/10.1101/132423|dx.doi.org/10.17504/protocols.io.smwec7e
+TMN:00000xx,osmFISH,cyclic single-molecule fluorescence in situ hybridization assay,A cyclic single molecule fluorescent in situ hybridization assay used to quantify the expression level of specific transcripts in tissue sections by direct labeling of individual RNA molecules,dx.doi.org/10.17504/protocols.io.psednbe|http://doi.org/10.1038/s41592-018-0175-z
+EFO:0009918,smFISH,single-molecule flourescence in situ hybridization assay,A flouresence in situ hybridization assay for detecting individual RNA molecules within cells with short fluorescent labelled oligonucleotide probes via fluorescence microscopy.,
+TMN:00000xx,SNARE-seq2 (ATAC-seq),,A SNARE-seq assay that is the second version of SNARE-seq and utilizes ATAC-seq.,
+TMN:00000xx,SNARE-seq2 (RNA-seq),,A SNARE-seq assay that is the second version of SNARE-seq and utilizes RNA-seq.,
+EFO:0009919,Split-seq,,A single-cell RNA-seq assay that labels the cellular origin of RNA through combinatorial barcoding.,
+EFO:0009966,assay by long read seqencer,,An assay which uses long read seqencing technology to determine the sequence of nucleic acids.,
+TMN:00000xx,PacBio long-read sequencing,,An assay by long read sequencer produced by PacBio corporation.,http://doi.org/10.1126/science.1162986
+TMN:00000xx,Oxford Nanopore long-read sequencing,,An assay by long read seqencer produced by Oxford Nanopore corporation.,http://nanoporetech.com/applications/dna-nanopore-sequencing
+TMN:00000xx,sci-Metv2,single-cell combinatorial indexing with WGBS methylation analysis version 2,The second version of the single-cell combinatorial indexing with WGBS methylation analysis.,doi: 10.1038/nbt.4112

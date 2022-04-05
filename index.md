@@ -8,6 +8,7 @@ Use the following links to navigate to tables containing terms, synonyms, and de
 
 #### [Techniques](https://github.com/patrick-lloyd-ray/controlled-vocabularies.github.io/blob/gh-pages/techniques_table.csv) (methods, protocols, ways of conducting experiments)
 
+If you need a technique or method that is not on this list, please email the [data curation team](data.curation@alleninstitute.org) with the subject line "New Technique Term." Please also provide a publication doi and/or protocols.io information for the technique so that we can ensure accuracy. 
 #### [Specimens](https://github.com/patrick-lloyd-ray/controlled-vocabularies.github.io/blob/gh-pages/specimens_table.csv) (certain targets of experimental methods).
 
 Specimens are roles that material entities may have. To say that something is a specimen is simply to say that it bears the specimen role. The role of specimen for a material entity is gained via a process (a specimen collection process). Typical examples of specimens are blood taken from an animal, where the blood has the specimen role (blood specimen) and the animal does not bear that role (i.e., the animal is not a specimen). However, the specimen role can also be borne by whole organisms. 
